@@ -76,7 +76,7 @@ Kidney_Tumor_Prediction/
 
 ## 📬 Contact
 
-Created by [Shreeyansh Mishra](https://github.com/shreeyanshm) – feel free to reach out!
+Created by [Shreeyansh Mittal](https://github.com/shreeyanshm) – feel free to reach out!
 
 ---
 
